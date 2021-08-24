@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Anthony Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "블록체인[Blockchain], 인공지능[Artificial Intelligence], 데이터분석[Data Analysis]."
+  location         : "Republic Of Korea"
+  email            : "qwerlarlgus@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
